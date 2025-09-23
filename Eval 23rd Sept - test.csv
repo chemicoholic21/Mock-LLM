@@ -1,0 +1,322 @@
+Grapevine Aiinterviewinstance → ID,Grapevine Job - Job → Description,Grapevine Userresume - Resume → Metadata → Resume Text,Grapevine Aiinterviewinstance → Audio File,Grapevine Userresume - Resume → Metadata → User Real Name,Grapevine Aiinterviewinstance → Duration,Grapevine Userresume - Resume → Metadata → Experience,phone,Grapevine Userresume - Resume → Metadata → Current Salary,Grapevine Userresume - Resume → Metadata → Email,Resume Evaluator Agent (RAG-LLM),Interview Evaluator Agent (RAG-LLM),Resume + Interview Summarizer Agent,Result[LLM],Recruiter GPT,Grapevine Aiinterviewinstance → User ID,Good Fit,Candidate Profile,Grapevine Userresume - Resume → Metadata → Notice Period,User → User Settings → Round1 Preference → Notice Period,Resume Evaluator Agent (RAG-LLM),Title,Grapevine Userresume - Resume → Resume URL,Audio Eval,Final Decision,Tushar's Feedback
+b353d72f-982c-4c3f-9f5d-dd1ff1778d53,"# Senior Front End Engineer
+
+## About CodeRabbit
+CodeRabbit is an innovative research and development company focused on building extraordinarily productive human-machine collaboration systems. Our primary goal is to create the next generation of Gen AI-driven code reviewers—a symbiotic partnership between humans and advanced algorithms that significantly outperforms individual engineers. We combine language models with human ingenuity to push the boundaries of software development efficiency and quality.
+
+## Role Overview
+We are seeking an experienced Senior Front End Engineer to build and enhance the interfaces that make our AI code review capabilities accessible, intuitive, and powerful for developers worldwide. In this role, you'll collaborate closely with cross-functional teams to deliver high-performance, scalable, and visually appealing web applications.
+
+## Key Responsibilities
+* Design, build, and maintain high-performance, reusable UI components across our web applications
+* Collaborate closely with product managers, designers, and backend engineers to implement new product features
+* Ensure a consistent and seamless user experience across various browsers and devices
+* Optimize application performance and responsiveness to meet high scalability requirements
+* Implement automated testing to ensure code quality and reliability
+* Mentor junior team members and contribute to engineering best practices
+* Participate in code reviews, providing constructive feedback to foster continuous improvement
+
+## What We Look For
+**Skills:**
+* Strong experience with modern JavaScript frameworks (React, Vue, or Angular)
+* 6+ years of professional front-end development experience
+* Deep understanding of HTML, CSS, and responsive design principles
+* Expertise in front-end build tools and workflows such as webpack and Babel
+* Experience working with RESTful APIs and asynchronous request handling
+
+## Qualifications
+* Required Experience: 6+ years of professional front-end development
+* Bonus Points: Contributions to open-source projects, a strong sense of craftsmanship, user empathy, excellent technical communication skills, and a growth mindset toward tackling ambiguous problems with innovative solutions
+
+## What We Offer
+* Competitive compensation and benefits package
+* Professional growth and career development opportunities
+* A collaborative and innovative work environment","Aditya Kumar
+Bangalore, Karnataka — +(91) 6206257857
+Dev.Adityakmr@Gmail.Com — Linkedin.Com/In/Adityakmr7 — Github.Com/Adityakmr7
+Summary
+Innovative Software Engineer With 4.5+ Years Of Specialized Experience In React Native And Reactjs
+Development.
+Demonstrated Expertise In Building High-Performance Mobile And Web Applications
+With A Focus On User Experience. Strong Collaborator With Excellent Problem-Solving Skills Seeking To
+Leverage Technical Expertise In A Challenging Role To Drive Impactful Solutions.
+Technical Skills
+Languages:
+Javascript (Es6+), Typescript, Html5, Css3, Java, Rust
+Frameworks/Libraries: React Native, Reactjs, Redux, Mobx, Nextjs, Nodejs
+Mobile Development:
+Ios (Swiftui), Android, App Store/Play Store Deployment
+Tools & Platforms:
+Git, Firebase, Node.Js, Restful Apis, Graphql, Aws
+Testing:
+Jest, React Testing Library, Detox, E2E Testing
+Other:
+Agile Methodologies, Ci/Cd, Performance Optimization, Responsive
+Design
+Professional Experience
+Software Development Engineer 2 — Oct 2024 - Present Fisdom, Bangalore, Karnataka
+• Led Development For Critical App Modules Including Basket, Screener, And Small Case, Enhancing
+User Experience And Functionality While Reducing Customer Support Tickets By 25%.
+• Architected And Implemented Real-Time Data Handling System Using Websockets, Improving Data
+Processing Speed By 40% And Enabling Instant Market Updates.
+• Optimized App Performance Through Code Splitting And Lazy Loading Techniques, Reducing Load Times
+By 35% And Improving Overall App Stability.
+• Conducted Code Reviews And Mentored Junior Developers, Fostering Best Practices In React Native
+Development And Improving Team Productivity By 20%.
+Software Development Engineer 1 — Jul 2022 - Oct 2024 Fisdom, Bangalore, Karnataka
+• Developed And Maintained Cross-Platform Mobile Application Using React Native, Resulting In A 30%
+Increase In User Engagement And Seamless Experience Across Ios And Android Platforms.
+• Enhanced Key App Sections (”My Account”, ”Scrip Detail”, ”Landing”), Implementing Complex Ui
+Components And Optimizing Data Flow, Leading To A 25% Improvement In User Satisfaction Scores.
+• Collaborated With Design And Backend Teams To Implement Responsive Ui Designs And Integrate
+Restful Apis For Financial Data Visualization.
+Associate Software Developer — Mar 2021 - May 2022 Bluespacelabs, Gurgaon
+• Led Development Of ”Aquila”, An Advanced E-Commerce React Native App With Personalized Rec-
+Ommendations And Offline Functionality, Achieving A 4.5-Star Rating On App Stores And 100,000+
+Downloads.
+• Developed ”Bluwyare”, A Sass Product For Instant Messaging, Utilizing Reactjs And Websocket
+Technology For Real-Time Communication Capabilities.
+• Implemented Ci/Cd Pipelines Using Github Actions, Reducing Deployment Time By 40%.
+Web Developer — Jul 2020 - Feb 2021 Iih Global, Gujarat
+• Spearheaded End-To-End Development Of A Pharmacy Management Application Using Reactjs, In-
+Cluding Inventory Tracking And Prescription Management Features.
+• Refactored Legacy Codebase, Implementing Redux-Saga And Material Ui, Resulting In 50% Improved
+Maintainability And Enhanced Ui Consistency.
+Freelance Web Developer — Mar 2019 - Apr 2020 G Media Solution, Bangalore
+• Debugged And Enhanced An E-Commerce Platform, Adhering To Eslint And Prettier Standards To
+Ensure Code Quality And Consistency.
+1
+• Developed A React Native Matrimony App With 30+ Screens, Integrating Firebase For Authentication
+And Real-Time Database, And Implementing Redux For Efficient State Management.
+Key Projects
+Fisdom (React Native, Ios, Android)
+Comprehensive Financial Investment App With Real-Time Market Updates, Portfolio Management, And
+Personalized Investment Recommendations.
+Technologies: React Native, Redux, Restful Apis, Websockets, Charts.Js
+Impact: 1M+ Downloads, 4.2-Star Rating On Google Play Store, 30% Month-Over-Month User Growth
+Spotify Clone (React Native)
+Replicated Spotify’S Ui And Core Functionalities Including Music Playback, Playlists, And User Authen-
+Tication Using React Native And Spotify Api.
+Github: Github.Com/Adityakmr7/Spotify-Clone
+React Native Toastify (Open Source)
+Developed A Highly Customizable Toast Notification Library For React Native With 500+ Github Stars.
+Github: Github.Com/Adityakmr7/React-Native-Toastify
+Education
+Bachelor Of Science — Lalit Narayan Mithila University — 2017 - 2020
+Additional Activities
+• Technical Blogger With 5000+ Monthly Readers On Web And Mobile Development: Adityakmr.Hashnode.Dev
+• Youtube Content Creator On React And React Native With 2000+ Subscribers: Youtube.Com/@Adityakmr7
+• Regular Contributor To Open-Source React Native Projects And Active Member Of Local Developer
+Meetups.
+2
+",,Aditya Kumar,,4,916206257857,0,dev.adityakmr@gmail.com,b353d72f-982c-4c3f-9f5d-dd1ff1778d53ADITYA KUMAR,Interview not conducted or transcript unavailable.,"Here is a summary of the candidate's resume for the Senior Front End Engineer position.
+
+### Overall Summary
+The candidate is a technically strong Front End Engineer with an excellent skill set that directly aligns with the role's requirements. They demonstrate a senior-level, impact-oriented mindset by quantifying achievements in their resume. However, the primary concern is that their **~5 years of experience falls short of the mandatory 6+ year requirement**.
+
+### Strengths
+*   **Excellent Technical Skill Alignment (9/10):** The candidate's skills are a near-perfect match for the job description, with extensive experience in React, HTML/CSS, responsive design, RESTful APIs, and testing libraries.
+*   **Senior-Level Responsibilities:** Despite having fewer years of experience, their resume details senior-level work, including leading development, performance optimization, system architecture, and mentoring junior developers.
+*   **Impact-Oriented Mindset:** The candidate effectively uses metrics to showcase their achievements (e.g., ""reducing load times by 35%""), demonstrating a strong sense of craftsmanship and a focus on measurable results.
+
+### Risks & Concerns
+*   **Years of Experience (6/10):** The candidate has just over 5 years of experience, which does not meet the ""6+ years"" minimum requirement listed in the job description.
+*   **Company & Education Pedigree (4/10):** The candidate's university and previous employers are not top-tier or globally recognized tech firms, which may be a concern if pedigree is a strong hiring criterion.
+*   **Attention to Detail:** The resume contains a typo in work history dates (listing a future start date), which could be a minor red flag.
+
+### Interview Status
+*   An interview has **not been conducted**.
+
+### Recommendation
+The candidate's strong technical skills and demonstrated senior-level impact make them worth interviewing, despite not meeting the years of experience requirement. The interview should focus on validating the depth and complexity of their experience to determine if it's equivalent to that of an engineer with 6+ years in the industry.
+
+**Key areas to probe in an interview:**
+1.  **Project Complexity:** Ask them to detail their most complex architectural and performance optimization challenges to gauge the true seniority of their work.
+2.  **Mentorship:** Inquire about specific instances of mentoring junior developers and contributing to engineering best practices.
+3.  **Ambiguity and Problem-Solving:** Given the ""growth mindset"" requirement, ask how they have approached and delivered on ambiguous or poorly defined projects.",Manual Intervention,b353d72f-982c-4c3f-9f5d-dd1ff1778d53ADITYA KUMAR,4fee1cfe-8a6e-4ae3-8841-31d94e12a907,"Based on my analysis of Aditya Kumar's resume against the Senior Frontend Engineer role at CodeRabbit, here is a summary of his suitability for the position:
+
+*   **Proven Expertise in Core Frontend Technologies:** Aditya demonstrates deep, specialized experience in the required React.js ecosystem, including Next.js and Redux. His track record of building complex, high-performance web and mobile applications at Fisdom and Bluespacelabs directly aligns with the role's core technical demands.
+
+*   **Demonstrated Senior-Level Impact and Leadership:** Despite having 4.5+ years of experience, his responsibilities mirror those of a senior engineer. He has led development on critical modules, architected real-time data systems, optimized application load times by 35%, and actively mentored junior developers, fulfilling key senior-level responsibilities outlined in the job description.
+
+*   **Strong Focus on Performance and User Experience:** Aditya consistently connects his technical work to user-centric outcomes, such as reducing customer support tickets by 25% and increasing user engagement by 30%. This data-driven approach to improving UI and performance shows the user empathy and sense of craftsmanship CodeRabbit values.
+
+*   **Exceptional Initiative and Technical Communication:** He strongly aligns with the ""bonus points"" criteria through significant contributions beyond his primary role. By creating an open-source library with 500+ stars, maintaining a technical blog with 5,000+ monthly readers, and running a YouTube channel, he showcases a growth mindset, excellent communication skills, and a passion for the engineering community.","Good Fit Summary: Based on my analysis of Aditya Kumars resume against the Senior Frontend Engineer role at CodeRabbit, here is a summary of his suitability for the position: * **Proven Expertise in Core Frontend Technologies:** Aditya demonstrates deep, specialized experience in the required React.js ecosystem, including Next.js and Redux. His track record of building complex, high-performance web and mobile applications at Fisdom and Bluespacelabs directly aligns with the roles core technical demands. * **Demonstrated Senior-Level Impact and Leadership:** Despite having 4.5+ years of experience, his responsibilities mirror those of a senior engineer. He has led development on critical modules, architected real-time data systems, optimized application load times by 35, and actively mentored junior developers, fulfilling key senior-level responsibilities outlined in the job description. * **Strong Focus on Performance and User Experience:** Aditya consistently connects his technical work to user-centric outcomes, such as reducing customer support tickets by 25 and increasing user engagement by 30. This data-driven approach to improving UI and performance shows the user empathy and sense of craftsmanship CodeRabbit values. * **Exceptional Initiative and Technical Communication:** He strongly aligns with the bonus points criteria through significant contributions beyond his primary role. By creating an open-source library with 500+ stars, maintaining a technical blog with 5,000+ monthly readers, and running a YouTube channel, he showcases a growth mindset, excellent communication skills, and a passion for the engineering community. Why Aditya for the Role at CodeRabbit Senior Frontend Engineer: 1. **Senior-Level Impact and Mentorship:** He has led development on critical application modules, conducted code reviews, and mentored junior developers, directly matching the leadership and collaboration responsibilities of the role. 2. **Focus on Performance and User-Centric Metrics:** His resume demonstrates a strong history of optimizing applications for performance (e.g., reducing load times by 35) and tying his work to user satisfaction, which aligns with CodeRabbits goal of building powerful and intuitive interfaces. 3. **Exceeds Bonus Points Criteria:** Aditya shows exceptional initiative and technical communication through his popular open-source library (500+ stars), technical blog (5000+ readers), and YouTube channel, demonstrating the passion, craftsmanship, and growth mindset CodeRabbit seeks. 4. **Directly Relevant Technical Expertise:** He has 4.5+ years of specialized experience in the required technologies, including React.js, Next.js, Redux, and RESTful APIs, building high-performance, scalable applications. Technical Alignment: - Frameworks: Reactjs, React Native, Next.js, Node.js - Core Skills: JavaScript (ES6+), TypeScript, HTML5, CSS3, Responsive Design - APIs State Management: RESTful APIs, GraphQL, Redux, MobX - Testing Tooling: Jest, React Testing Library, Git, CI/CD - Soft Skills: Mentorship, Code Review, Agile Methodologies, Technical Communication What Stood Out in the Interview: - Not Provided. Based on his resume, his ability to quantify the impact of his work is a major differentiator. He doesnt just list responsibilities; he details outcomes like reducing customer support tickets by 25 and improving data processing speed by 40. This suggests a strong, results-oriented mindset. His significant community contributions (open-source, blogging, YouTube) also stand out as evidence of a deep passion for software development. Links: Resume: Not Provided LinkedIn: https://Linkedin.Com/In/Adityakmr7 GitHub: https://Github.Com/Adityakmr7 Blog: https://Adityakmr.Hashnode.Dev One-sentence personalized summary of candidate fit. Aditya is a high-impact frontend engineer whose senior-level project ownership, metric-driven approach to performance, and exceptional community engagement make him a strong candidate for the role, despite having slightly less than the requested years of experience.",1,30,"```json
+{
+  ""Education and Company Pedigree"": {
+    ""score"": 4,
+    ""scale"": ""1-10"",
+    ""justification"": ""The candidate's education is from Lalit Narayan Mithila University, which is not identified as a top-tier engineering program. The companies listed (Fisdom, Bluespacelabs, etc.) are not globally recognized top-tier tech firms or FAANG-level companies. The pedigree is not a strong match for a bias towards top programs or companies.""
+  },
+  ""Skills & Specialties"": {
+    ""score"": 9,
+    ""scale"": ""1-10"",
+    ""justification"": ""The candidate's technical skills are a very strong match for the role. The resume lists extensive experience with Reactjs, which is a required modern JavaScript framework. It also explicitly mentions HTML5, CSS3, Responsive Design, RESTful APIs, and testing libraries (Jest, React Testing Library), all of which are specified in the job description. The candidate also shows experience with performance optimization, which is a key responsibility. The only minor gap is the lack of explicit mention of build tools like webpack or Babel, though experience is implied through the listed frameworks.""
+  },
+  ""Work Experience"": {
+    ""score"": 6,
+    ""scale"": ""1-10"",
+    ""justification"": ""The job description requires 6+ years of professional front-end experience. The candidate's summary states '4.5+ years' and a calculation of the provided work history dates (Mar 2019 to Oct 2024, excluding future/impossible dates) totals just over 5 years. This does not meet the minimum experience requirement. However, the quality of experience is high and aligns with senior-level responsibilities, such as leading development, architecting systems, performance optimization, and mentoring junior developers. Note: The dates for the 'Software Development Engineer 2' role ('Oct 2024 - Present') are in the future and overlap with the prior role, indicating a likely typo in the resume.""
+  },
+  ""Basic Contact Details"": {
+    ""score"": ""Complete"",
+    ""scale"": ""Complete, Partially Complete, Not Found"",
+    ""justification"": ""The resume provides a full name, location (Bangalore, Karnataka), phone number, email address, and links to LinkedIn and GitHub profiles.""
+  },
+  ""Educational Background Details"": {
+    ""score"": ""Complete"",
+    ""scale"": ""Complete, Partially Complete, Not Found"",
+    ""justification"": ""The resume includes the university name (Lalit Narayan Mithila University), degree (Bachelor of Science), and years of attendance (2017 - 2020).""
+  },
+  ""Input on Job Specific Criteria"": {
+    ""summary"": ""The candidate strongly aligns with the 'Bias for Metrics in resume', providing numerous quantifiable achievements (e.g., 'reducing load times by 35%', 'improving team productivity by 20%'). The experience at companies like Fisdom and Bluespacelabs appears to be within a startup environment, but the resume does not specify if they are 'Venture Funded'. The candidate does not meet the 'Top Undergrad Program' criterion, as their degree is from Lalit Narayan Mithila University.""
+  }
+}
+```",CodeRabbit Senior Frontend Engineer,https://stagvinecip01.blob.core.windows.net/stc-gvine-blob-centralindia-prod-001-django/images/post-multi-images/366885f3-2f34-493d-a721-dffa73089b3a,,yes,Yes
+76df2b41-a1b7-4dce-b80e-ac2a00607ab4,"# Chief of Staff
+
+## You'll be a good fit if you have
+- Strong context-switching ability and structured thinking to manage diverse priorities with clarity.  
+- Exceptional written and spoken communication skills for internal and external interactions.  
+- Proven track record of independently driving projects to closure and ensuring accountability.  
+- Ability to draft and maintain high-quality internal communication, OKRs, and performance processes.  
+- Experience acting as a reviewer for documents, decks, tools, or processes to uphold high standards.  
+- Deep curiosity and evolving perspectives on GenAI and the broader AI ecosystem.  
+- Ability to build alignment across fast-paced organizations while removing bottlenecks proactively.  
+- Hands-on experience in high-performance environments such as MBB consulting, top-tier VC, or founder’s office roles at startups.  
+- Bonus: prior experience as a Product Manager, Chief of Staff, or fast-scaling startup operator with exposure to hiring, GTM, or AI ecosystem.  
+- Comfort working directly with founders, managing calendars, time audits, and ensuring operational velocity.
+
+## Key Responsibilities  
+
+- **Drive Strategic Initiatives** by independently managing high-priority projects from planning through execution and closure.  
+- **Support Founder Priorities** through calendar management, time audits, and proactive removal of operational bottlenecks.  
+- **Draft and Maintain Internal Communication** including OKRs, performance tracking, and company-wide updates with clarity and precision.  
+- **Review and Refine Work Products** such as documents, decks, tools, and processes to uphold high standards of quality.  
+- **Facilitate Cross-Functional Alignment** by ensuring smooth collaboration across teams in a fast-paced, dynamic environment.  
+- **Act as a Thought Partner** to founders on strategy, decision-making, and evolving perspectives in GenAI and the AI ecosystem.  
+- **Establish Accountability Mechanisms** to ensure progress on key initiatives and team commitments.  
+- **Represent Leadership Externally** in select interactions, maintaining professionalism and strong communication.  
+- **Contribute to Organizational Scaling** by supporting hiring, GTM, and operational excellence efforts.  
+- **Continuously Improve Processes** to increase organizational velocity and clarity across initiatives.","Minal Goel (He/Him)
+Bengaluru | (+91) 995-626-8783 | Minal.Goel2019@Iitkalumni.Org | Linkedin.Com/In/Minalgoel
+Summary
+Seasoned Operator With 6+ Years Across Startups And Consulting. A Tech-First Product Manager — Trusted As The Go-To Problem
+Solver, Mentor, And Evangelist For Scalable Practices And Second-Order Thinking. Experienced In Driving Products From 0→1 And
+Scaling Them Through 1→10, Including Flagship Ai-First Launches (Ms Teams Bot, Copilot, Guided Onboarding).
+Experience
+Prismforce, Bengaluru
+Aug’22 – Present (3+ Years)
+Sequoia (Peak Xv)–Backed Series A Saas Startup ($13.6M Raised), Powering Internal Talent Mobility For Leading Ites Firms (Cognizant, Tech
+Mahindra). Scaled To $10M+ Arr With Enterprise Clients Listed On Nse/Nasdaq (Combined Market Cap $100B+).
+Senior Product Manager I
+Apr’25 – Present
+Product Manager Ii
+Apr’24 – Mar’25
+Product Manager I
+Aug’22 – Mar’24
+• 2Nd Pm Hire In The Team; Joined Pre-Series A, Scaled From 1 →20+ Clients, $200K →$10M+ Arr, And 600K+ Enterprise Users.
+– Led Several 0→1 And 1→10 Initiatives; Launched 20+ Major Features; Scaled Core Modules; Led Several Enhancements
+– Trusted As Go-To Problem Solver, Mentor, And Partner To Head Of Product; Wore Multiple Hats To Maintain Momentum.
+• Elevated Product & Technical Leadership — Uplifted How The Team Iterated On A Complex Enterprise Saas Product.
+– Promoted Designing For Future — Abstracted Client Asks Into Extensible Builds Scalable Across Clients And Use Cases.
+– Authored 50+ Prds And Reviewed 100+, Raising Clarity Standards And Pushing Second-Order Thinking.
+– Championed A Data-Driven Culture — Leveraged Sql Skills; Kick-Started Mixpanel Instrumentation.
+– Maintained Technical Credibility — Authored 200+ Node.Js Prs Across Apis, Performance Tuning, Bug Fixes, & Minor Features.
+– Contributed To High-Level Design — Supported Engineering With Architecture, Schemas And Abstraction; Learned Aws Primitives.
+• Drove Flagship Product Initiatives — Delivering High-Impact Features At Scale; Selected Highlights By Theme:
+– Ai-First User Experience:
+∗Microsoft Teams App — Actionable Nudges + Conversational Access — Boosted Average Monthly Profile Updates By 254%.
+∗Guided Onboarding — Boosted Skill Recommendation Coverage By 114% And Cut Onboarding Time By 60%; Powered By 4
+Ml Models (Incl. Llm), Scalable Ai/Ml-Ops, And Responsive Ux.
+– Enterprise Readiness & Strategic Bets:
+∗Microsoft Copilot — Anchored Partnership And Mvp; Showcased At Microsoft Build 2025 Keynote By Satya Nadella.
+∗Global Market Readiness — Modernizing Ui, Simplifying Ux, And Ensuring Wcag Aa/Aaa Compliance For Accessibility.
+– Platform Scale & Reliability:
+∗Field Abstraction Layer — Enabled Clients To Add Fields Via Ui (No Dev Effort); Auto-Indexed To Power 80%+ Of Filters
+∗Calculation Scope Algorithm — Cut Daily Compute From 2B →100M Points, Improving Performance While Lowering Costs.
+Ycp Auctus, Hyderabad (India) & Metro Manila (Philippines)
+Dec’19 – Jul’22 (2.5 Years)
+Asia-Focused Management Consulting Firm (Ex-Auctus Advisors), Now Part Of Ycp Holdings; Advised Tata Group On The Air India Bid.
+Associate Consultant
+Oct’21 – Jul’22
+Business Analyst
+Dec’19 – Sep’21
+• Supported The Ite&C Department, Govt. Of Telangana On Emerging Tech Strategy And Adoption.
+– Drove Pilots In Ai, Drones, Agritech, And Web3 — From Ideation And Scouting To Pilots And Procurement.
+– Led Multi-Stakeholder Programs With 100+ Orgs Incl. Govt. Of India, Niti Aayog, Wef, Google, Aws, Undp, Iisc, Intel.
+– Led Flagship Initiatives — Spacetech Policy, Agritech Data Policy, And The National Centre For Additive Manufacturing.
+– Quoted In Livemint And Co-Authored A Drone-In-Healthcare Report With The World Economic Forum.
+• Supported A Filipino Enterprise With Cold Storage And Data Center Interests, Focusing On Finance, Valuations, And Strategy.
+Built Fcf Model With Ing And Led Ground Assessments, Supporting Fundraising At A $200M Valuation.
+– Conducted Multiple Strategic And Financial Due Diligence On Acquisition Targets Valued At $10–20M.
+– Researched Se Asia’S Data Center Market And Conducted A Study On Regional Data Privacy Laws And Localization Incentives.
+Tata 1Mg — Business Analyst, Gurugram
+Jul’19 – Nov’19
+Education
+Bachelor Of Technology, Electrical Engineering
+Indian Institute Of Technology, Kanpur
+Activities: Head Events, Techkriti (Inter-College Festival) | Jee Advanced Air 607
+July 2015– April 2019
+",https://staaicip01.blob.core.windows.net/stc-gvine-private-centralindia-prod-004-ai/ai-interviews/a123565a-ad96-465c-a8ea-46069b3b4afa.ogg,Minal Goel,439,6,919956268783,"5,000,000",minal.goel2019@iitkalumni.org,76df2b41-a1b7-4dce-b80e-ac2a00607ab4Minal Goel,Interview not conducted or transcript unavailable.,"Based on the provided job description and resume evaluation, here is a summary of the candidate's fit for the Chief of Staff role.
+
+### Overall Recommendation
+
+The candidate is an **exceptionally strong fit** for the Chief of Staff position. Their background in a top-tier engineering program, management consulting, and a product leadership role at a Sequoia-backed startup aligns perfectly with the desired high-performance experience. They demonstrate a proven ability to drive strategic initiatives, a deep expertise in the AI space, and strong communication skills.
+
+---
+
+### Key Strengths
+
+*   **Elite Pedigree & Relevant Experience:** The candidate's background from IIT Kanpur (a top undergrad program) and their work in both management consulting and a venture-funded startup directly match the job description's ideal profile (MBB, top-tier VC, or founder's office).
+*   **Proven Strategic & Operational Driver:** Their experience as a Product Manager, described as a ""go-to problem solver who wore multiple hats,"" closely mirrors the responsibilities of a Chief of Staff. They have a quantifiable track record of driving projects from 0 to 1 and scaling products to over $10M ARR.
+*   **Deep AI/GenAI Expertise:** The candidate has hands-on experience building AI-first products (Copilots, LLM-powered features), making them a credible thought partner on strategy in the AI ecosystem, a key requirement for the role.
+*   **Strong Communication & Analytical Skills:** The resume showcases exceptional written communication (authoring 50+ PRDs, co-authoring a WEF report) and a clear bias for using metrics to demonstrate impact, fulfilling the need for data-driven, structured thinking.
+
+### Potential Gaps & Areas to Probe in an Interview
+
+*   **Direct Founder Support:** The resume does not explicitly mention experience with core administrative and operational tasks like **managing founder calendars, conducting time audits, or drafting company-wide OKRs**. These are key responsibilities and should be directly addressed in an interview.
+*   **Attention to Detail:** The evaluation noted minor typos and a logical date inconsistency on the resume. While potentially minor, it raises a small flag regarding attention to detail, which is critical for a role that involves reviewing high-stakes documents and communications.
+
+### Interview Status
+
+*   An interview has **not yet been conducted**. The summary is based solely on the resume evaluation against the job description.",Advanced,76df2b41-a1b7-4dce-b80e-ac2a00607ab4Minal Goel,df2bf296-7906-4dfa-ae74-e0af24d23a84,"Based on the analysis, here is a 4-point summary highlighting Minal Goel's fit for the Chief of Staff role at Sarvam AI:
+
+*   **Ideal Hybrid Background**: Minal’s experience perfectly matches the desired profile, combining 3+ years as a key operator in a fast-scaling startup (Prismforce, scaling from $200K to $10M+ ARR) with a strong foundation in management consulting (YCP Auctus), demonstrating both strategic and execution capabilities.
+
+*   **Proven AI & GenAI Leadership**: He shows deep relevance to Sarvam AI's domain by leading multiple AI-first initiatives, most notably anchoring a Microsoft Copilot partnership and MVP. This experience proves he can drive high-stakes strategic projects and act as a thought partner in the AI ecosystem.
+
+*   **Exceptional Operational Execution**: His track record of authoring 50+ PRDs, reviewing 100+, and being the trusted ""Go-To Problem Solver"" demonstrates a strong capacity for independently driving projects, upholding high-quality standards, and establishing accountability, which are core to the Chief of Staff role.
+
+*   **Strategic Acumen with Technical Credibility**: He combines high-level strategic thinking from his consulting work (driving emerging tech strategy) with deep technical expertise (authoring 200+ Node.js PRs). This unique blend makes him an effective thought partner for the founders and enables him to remove bottlenecks across both business and engineering teams.","Good Fit Summary: Based on the analysis, here is a 4-point summary highlighting Minal Goels fit for the Chief of Staff role at Sarvam AI: * **Ideal Hybrid Background**: Minals experience perfectly matches the desired profile, combining 3+ years as a key operator in a fast-scaling startup (Prismforce, scaling from 200K to 10M+ ARR) with a strong foundation in management consulting (YCP Auctus), demonstrating both strategic and execution capabilities. * **Proven AI GenAI Leadership**: He shows deep relevance to Sarvam AIs domain by leading multiple AI-first initiatives, most notably anchoring a Microsoft Copilot partnership and MVP. This experience proves he can drive high-stakes strategic projects and act as a thought partner in the AI ecosystem. * **Exceptional Operational Execution**: His track record of authoring 50+ PRDs, reviewing 100+, and being the trusted Go-To Problem Solver demonstrates a strong capacity for independently driving projects, upholding high-quality standards, and establishing accountability, which are core to the Chief of Staff role. * **Strategic Acumen with Technical Credibility**: He combines high-level strategic thinking from his consulting work (driving emerging tech strategy) with deep technical expertise (authoring 200+ Node.js PRs). This unique blend makes him an effective thought partner for the founders and enables him to remove bottlenecks across both business and engineering teams. Experience: 6+ Years Why Minal for the Role at Sarvam AI Chief of Staff: 1. **Founder Support Operational Velocity**: Minal has a proven ability to remove bottlenecks and increase velocity, demonstrated by leading an algorithm redesign that cut daily compute by over 95 (2B to 100M points), directly aligning with the need to support founder priorities and drive efficiency. 2. **High-Quality Internal Processes Communication**: He has direct experience creating and upholding high standards for internal documentation by authoring 50+ PRDs and reviewing 100+, which is a core responsibility for maintaining OKRs and performance processes in the Chief of Staff role. 3. **Cross-Functional Alignment in a Scaling Environment**: Having joined a startup pre-Series A and scaling it from 200K to 10M+ ARR, Minal has hands-on experience building alignment and maintaining momentum in a fast-paced, high-growth environment. 4. **Strategic Thought Partnership in AI**: His experience extends beyond execution to high-level strategy, including advising on a national emerging tech strategy and anchoring the Microsoft Copilot partnership. This demonstrates his capacity to act as a true thought partner on the GenAI ecosystem. Technical Alignment: * AI/GenAI Product Leadership (LLMs, MS Copilot, ML Models) * Product Management (01 110) Roadmapping (PRDs) * Data Analysis Tooling (SQL, Mixpanel) * Technical Acumen (Node.js, AWS, System Architecture) * Strategic Financial Due Diligence * Stakeholder Management (Govt. of India, WEF, Google, AWS) What Stood Out in the Interview: * His ability to seamlessly connect high-level strategy (from his consulting work) with deep, hands-on technical execution (authoring 200+ Node.js PRs) is a rare and valuable combination for this role. * The resume consistently highlights a pattern of being the Go-To Problem Solver and mentor, indicating a high degree of ownership, accountability, and leadership. * He backs up his accomplishments with clear, impressive metrics (e.g., boosted profile updates by 254; cut onboarding time by 60), showcasing a results-driven mindset essential for a Chief of Staff. Links: Resume: [Resume](https://stagvinecip01.blob.core.windows.net/stc-gvine-blob-centralindia-prod-001-django/images/post-multi-images/fedefca0-9e13-49c3-abce-7ae566948f40) LinkedIn: [LinkedIn](https://Linkedin.Com/In/Minalgoel) One-sentence personalized summary of candidate fit: Minal is a rare operator who combines a strategic consulting background with deep, hands-on AI product leadership and technical credibility, making him an ideal force multiplier for Sarvam AIs founders.",1,,"```json
+{
+  ""Education and Company Pedigree"": {
+    ""score"": 9,
+    ""scale"": ""1-10"",
+    ""justification"": ""The candidate has a very strong pedigree. They attended the Indian Institute of Technology (IIT), Kanpur, which is a top-tier engineering program, satisfying the 'Top Undergrad Program' criterion. Professionally, they have experience in a Sequoia-backed Series A startup (Prismforce) and an Asia-focused management consulting firm (YCP Auctus). This combination directly aligns with the job description's preferred 'high-performance environments such as MBB consulting, top-tier VC, or founder’s office roles at startups'.""
+  },
+  ""Skills & Specialties"": {
+    ""score"": 9,
+    ""scale"": ""1-10"",
+    ""justification"": ""The candidate demonstrates a strong alignment with the required skills. They have proven experience driving projects (led 0→1 and 1→10 initiatives), exceptional written communication (authored 50+ PRDs, co-authored a WEF report), and reviewing work (reviewed 100+ PRDs). Their deep, hands-on experience with GenAI and AI-first products (MS Teams Bot, Copilot, LLM-powered onboarding) is a significant strength. As a PM in a fast-scaling startup, they meet the bonus criteria. The primary gap is the lack of explicit mention of managing founder calendars, time audits, or drafting OKRs, though these tasks are often part of a senior operator's role.""
+  },
+  ""Work Experience"": {
+    ""score"": 9,
+    ""scale"": ""1-10"",
+    ""justification"": ""The candidate's 6+ years of experience as a Product Manager in a fast-scaling startup and as a Management Consultant is highly relevant for a Chief of Staff role. The resume shows clear progression and significant, quantified impact (e.g., 'Scaled To $10M+ Arr', 'Boosted Average Monthly Profile Updates By 254%'). The PM role, described as being a 'go-to problem solver' who 'wore multiple hats', mirrors the responsibilities of a Chief of Staff. The experience directly addresses strategic initiatives, cross-functional alignment, and contributing to organizational scaling. There are notable typos and logical inconsistencies in the dates provided for the Prismforce roles (e.g., a Senior PM role starting in the future, Apr'25), which raises a minor flag on attention to detail, but the substance of the experience is excellent.""
+  },
+  ""Basic Contact Details"": {
+    ""score"": ""Pass"",
+    ""scale"": ""Pass/Fail"",
+    ""justification"": ""The resume provides all necessary basic contact details: name, location, phone number, email address, and a LinkedIn profile URL.""
+  },
+  ""Educational Background Details"": {
+    ""score"": ""Pass"",
+    ""scale"": ""Pass/Fail"",
+    ""justification"": ""The resume includes all necessary educational background details: degree (Bachelor of Technology, Electrical Engineering), university (Indian Institute of Technology, Kanpur), and attendance dates (July 2015– April 2019).""
+  },
+  ""Input on Job Specific Criteria"": {
+    ""summary"": ""The candidate strongly meets all specified criteria. They have experience at a 'Venture Funded Startup' (Sequoia-backed Prismforce). They attended a 'Top Undergrad Program' (IIT Kanpur, a premier engineering institute). Finally, there is a clear 'Bias for Metrics in resume,' with numerous data points quantifying their achievements and impact (e.g., '$200K →$10M+ Arr', '254%' boost in profile updates, '60%' reduction in onboarding time).""
+  }
+}
+```",Sarvam AI Chief of Staff,https://stagvinecip01.blob.core.windows.net/stc-gvine-blob-centralindia-prod-001-django/images/post-multi-images/fedefca0-9e13-49c3-abce-7ae566948f40,Strong Communicator,yes,Yes
