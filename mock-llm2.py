@@ -12,7 +12,7 @@ import nest_asyncio
 
 # --- Page and Model Configuration ---
 st.set_page_config(
-    page_title="Correct MockLLM Implementation",
+    page_title=" MockLLM Implementation",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -364,7 +364,7 @@ async def main_orchestrator(candidates, jd, num_q, overall_progress_bar, results
     return all_results
 
 # --- STREAMLIT UI ---
-st.title("✅ Correct MockLLM Implementation")
+st.title("MockLLM")
 st.markdown("A robust demonstration of the MockLLM framework using gemini-pro, designed to handle complex, uncleaned resume text.")
 
 st.sidebar.header("⚙️ Configuration")
@@ -418,37 +418,6 @@ if st.button("🚀 Run MockLLM Simulation", type="primary", use_container_width=
                 st.success(f"Simulation for all candidates completed in {end_time - start_time:.2f} seconds.")
                 if all_results:
                     all_results.sort(key=lambda x: x['score'], reverse=True)
-                    
-                    # Prepare CSV data for download
-                    csv_data = []
-                    for rank, res in enumerate(all_results, 1):
-                        csv_data.append({
-                            "Rank": rank,
-                            "Name": res['name'],
-                            "Final Score": res['score'],
-                            "Handshake Result": res['handshake'],
-                            "Basic Score": res['interviewer_eval'].get('basicScore', 0),
-                            "Interview Score": res['interviewer_eval'].get('interviewScore', 0),
-                            "Interviewer Decision": res['interviewer_eval'].get('decision', 'N/A'),
-                            "Candidate Decision": res['candidate_eval'].get('decision', 'N/A'),
-                            "Interviewer Reasoning": res['interviewer_eval'].get('reasoning', 'N/A'),
-                            "Candidate Reasoning": res['candidate_eval'].get('reasoning', 'N/A'),
-                            "Strategy Learned": res['reflection_generated'] if res['reflection_generated'] else 'N/A'
-                        })
-                    
-                    results_df = pd.DataFrame(csv_data)
-                    csv_string = results_df.to_csv(index=False)
-                    
-                    # Download button
-                    st.download_button(
-                        label="📥 Download Results as CSV",
-                        data=csv_string,
-                        file_name=f"mockllm_results_{time.strftime('%Y%m%d_%H%M%S')}.csv",
-                        mime="text/csv",
-                        use_container_width=True,
-                        type="primary"
-                    )
-                    
                     st.markdown("--- \n## 🏆 Final Candidate Rankings")
                     for rank, res in enumerate(all_results, 1):
                         st.markdown(f"### **Rank #{rank}: {res['name']}**")
