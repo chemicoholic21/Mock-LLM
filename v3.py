@@ -364,8 +364,8 @@ async def main_orchestrator(candidates, jd, num_q, overall_progress_bar, results
     return all_results
 
 # --- STREAMLIT UI ---
-st.title("✅ Correct MockLLM Implementation")
-st.markdown("A robust demonstration of the MockLLM framework using gemini-pro, designed to handle complex, uncleaned resume text.")
+st.title("MockLLM")
+st.markdown("A robust demonstration of the MockLLM framework using gemini-pro, designed to converse between recruiter and candidate.")
 
 st.sidebar.header("⚙️ Configuration")
 num_questions = st.sidebar.slider("Number of Interview Questions", 1, 5, 2)
